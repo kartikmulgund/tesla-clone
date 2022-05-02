@@ -14,11 +14,11 @@ function Header() {
       <Menu>
         <a href='#'>Model S</a>
 
-        <a href='#'>Model 3</a>
+        <a href='#Model 3'>Model 3</a>
 
-        <a href='#'>Model X</a>
+        <a href='#Model X'>Model X</a>
 
-        <a href='#'>Model Y</a>
+        <a href='#Model Y'>Model Y</a>
       </Menu>
       <RightMenu>
         <a href='#'>Shop</a>
